@@ -16,8 +16,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Canada Research Chair on Digital Textualities', // Usually your GitHub org/user name.
-  projectName: 'Greek Anthology API', // Usually your repo name.
+  organizationName: 'RochDLY', // Usually your GitHub org/user name.
+  projectName: 'doc-API-AP', // Usually your repo name.
+  deploymentBranch: 'main',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
