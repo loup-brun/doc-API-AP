@@ -6,13 +6,14 @@
 export default {
   "title": "Documentation of the Greek Anthology API",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://rochdly.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/empreinte-digitale.png",
-  "organizationName": "Canada Research Chair on Digital Textualities",
-  "projectName": "Greek Anthology API",
+  "organizationName": "RochDLY",
+  "projectName": "doc-API-AP",
+  "deploymentBranch": "main",
   "i18n": {
     "defaultLocale": "en",
     "locales": [

@@ -27,7 +27,7 @@ epigrams_res
           <div>
 
 ```
-            {'count': 4134,
+{'count': 4134,
  'next': 'https://anthologiagraeca.org/api/passages/?format=json&page=2',
  'previous': None,
  'results': [{'id': 424,
