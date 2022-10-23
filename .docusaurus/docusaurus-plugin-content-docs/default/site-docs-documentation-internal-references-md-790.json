@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/internal-references",
+  "id": "documentation/internal-references",
+  "title": "Internal references",
+  "description": "Internal references are links between epigrams of the anthology. The relationship is symmetrical.",
+  "source": "@site/docs/documentation/internal-references.md",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/internal-references",
+  "permalink": "/docs/documentation/internal-references",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "External references",
+    "permalink": "/docs/documentation/external-references"
+  },
+  "next": {
+    "title": "Wikidata and other identifiers",
+    "permalink": "/docs/documentation/wikidata"
+  }
+}

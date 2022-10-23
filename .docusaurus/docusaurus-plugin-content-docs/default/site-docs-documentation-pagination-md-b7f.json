@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/pagination",
+  "id": "documentation/pagination",
+  "title": "Pagination",
+  "description": "As you might have noticed, all of the information are not displayed on the block above: the list is pagined and one can navigate the pages using the values of next and previous.",
+  "source": "@site/docs/documentation/pagination.md",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/pagination",
+  "permalink": "/docs/documentation/pagination",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The endpoint \"passages\"",
+    "permalink": "/docs/documentation/the-endpoint-passages"
+  },
+  "next": {
+    "title": "Data about epigrams",
+    "permalink": "/docs/documentation/data-about-epigrams"
+  }
+}

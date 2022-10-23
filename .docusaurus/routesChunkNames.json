@@ -1,0 +1,271 @@
+{
+  "/__docusaurus/debug-a2c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-ca-827"
+    }
+  },
+  "/__docusaurus/debug/config-963": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-ca-827"
+    }
+  },
+  "/__docusaurus/debug/content-e3d": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-ca-827"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-6b5": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-ca-827"
+    }
+  },
+  "/__docusaurus/debug/metadata-fab": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-ca-827"
+    }
+  },
+  "/__docusaurus/debug/registry-30d": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-ca-827"
+    }
+  },
+  "/__docusaurus/debug/routes-22a": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-ca-827"
+    }
+  },
+  "/blog-3f6": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-3d0": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/first-blog-post-4be": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
+  },
+  "/blog/long-blog-post-d88": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
+  },
+  "/blog/mdx-blog-post-c0d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
+  },
+  "/blog/tags-ded": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/docusaurus-eba": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "tag": "tag---blog-tags-docusaurusa-80-728",
+    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+  },
+  "/blog/tags/facebook-b35": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      }
+    ],
+    "tag": "tag---blog-tags-facebook-031-c52",
+    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
+  },
+  "/blog/tags/hello-52c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blog-871-381"
+      }
+    ],
+    "tag": "tag---blog-tags-hello-30-a-bed",
+    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+  },
+  "/blog/tags/hola-654": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "tag": "tag---blog-tags-holae-16-18a",
+    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+  },
+  "/blog/welcome-cd6": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-463-6fc"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
+  },
+  "/markdown-page-989": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-0-eb-92f"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-ca4": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-1-d-9-32f"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/category/documentation-058": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-documentation-36-c-f57"
+  },
+  "/docs/documentation/access-the-api-c4e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-access-the-api-841-9d7"
+  },
+  "/docs/documentation/authors-2d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-authorsfe-8-de5"
+  },
+  "/docs/documentation/cities-b1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-citiese-20-1ca"
+  },
+  "/docs/documentation/comments-68c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-comments-4-d-3-4e3"
+  },
+  "/docs/documentation/data-about-epigrams-71a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-data-about-epigramsa-35-67d"
+  },
+  "/docs/documentation/external-references-145": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-external-references-9-d-2-01e"
+  },
+  "/docs/documentation/images-of-the-manuscrit-5c6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-images-of-the-manuscrit-8-fb-2d0"
+  },
+  "/docs/documentation/internal-references-c4b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-internal-references-790-1d2"
+  },
+  "/docs/documentation/keywords-4fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-keywordscd-7-888"
+  },
+  "/docs/documentation/manuscrit-annotation-8fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-manuscrit-annotationf-50-d36"
+  },
+  "/docs/documentation/pagination-697": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-paginationb-7-f-0b3"
+  },
+  "/docs/documentation/scholia-1be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-scholia-604-fe6"
+  },
+  "/docs/documentation/texts-2a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-texts-95-c-f92"
+  },
+  "/docs/documentation/the-endpoint-passages-7fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-the-endpoint-passages-765-f30"
+  },
+  "/docs/documentation/wikidata-46c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-wikidatadf-7-e46"
+  },
+  "/docs/intro-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/-cee": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-0-eb-92f"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/scholia",
+  "id": "documentation/scholia",
+  "title": "Scholia",
+  "description": "On the Codex Palatinus 23, scholia are often associated to epigrams. Those scholia are also rendered on the platform and hence on the API.",
+  "source": "@site/docs/documentation/scholia.md",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/scholia",
+  "permalink": "/docs/documentation/scholia",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cities (places)",
+    "permalink": "/docs/documentation/cities"
+  },
+  "next": {
+    "title": "Comments",
+    "permalink": "/docs/documentation/comments"
+  }
+}

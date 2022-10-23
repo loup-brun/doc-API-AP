@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/wikidata",
+  "id": "documentation/wikidata",
+  "title": "Wikidata and other identifiers",
+  "description": "Almost all the objects in our data are aligned with a wikidata id. It is the case for authors, keywords and cities. The wikidata id can be found in the field alternative_urns.",
+  "source": "@site/docs/documentation/wikidata.md",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/wikidata",
+  "permalink": "/docs/documentation/wikidata",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Internal references",
+    "permalink": "/docs/documentation/internal-references"
+  },
+  "next": {
+    "title": "Manuscript Annotation API",
+    "permalink": "/docs/documentation/manuscrit-annotation"
+  }
+}

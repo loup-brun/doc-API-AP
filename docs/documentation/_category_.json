@@ -1,0 +1,8 @@
+{
+  "label": "Documentation",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "The purpose of this notebook is to document the API of the Greek Anthology's project. It is available at http://anthologiagraeca.org/api."
+  }
+}

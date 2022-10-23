@@ -1,0 +1,113 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "documentation/access-the-api",
+              "path": "/docs/documentation/access-the-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/authors",
+              "path": "/docs/documentation/authors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/cities",
+              "path": "/docs/documentation/cities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/comments",
+              "path": "/docs/documentation/comments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/data-about-epigrams",
+              "path": "/docs/documentation/data-about-epigrams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/external-references",
+              "path": "/docs/documentation/external-references",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/images-of-the-manuscrit",
+              "path": "/docs/documentation/images-of-the-manuscrit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/internal-references",
+              "path": "/docs/documentation/internal-references",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/keywords",
+              "path": "/docs/documentation/keywords",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/manuscrit-annotation",
+              "path": "/docs/documentation/manuscrit-annotation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/pagination",
+              "path": "/docs/documentation/pagination",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/scholia",
+              "path": "/docs/documentation/scholia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/texts",
+              "path": "/docs/documentation/texts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/the-endpoint-passages",
+              "path": "/docs/documentation/the-endpoint-passages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/wikidata",
+              "path": "/docs/documentation/wikidata",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/documentation",
+              "path": "/docs/category/documentation",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
