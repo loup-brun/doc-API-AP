@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/internal-references.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/internal-references",
-  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/internal-references",
+  "permalink": "/doc-API-AP/docs/documentation/internal-references",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "External references",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/external-references"
+    "permalink": "/doc-API-AP/docs/documentation/external-references"
   },
   "next": {
     "title": "Wikidata and other identifiers",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/wikidata"
+    "permalink": "/doc-API-AP/docs/documentation/wikidata"
   }
 }

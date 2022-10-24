@@ -6,8 +6,8 @@
 export default {
   "title": "Documentation of the Greek Anthology API",
   "tagline": "Dinosaurs are cool",
-  "url": "https://rochdly.github.io/",
-  "baseUrl": "https://rochdly.github.io/doc-API-AP/",
+  "url": "https://rochdly.github.io",
+  "baseUrl": "/doc-API-AP/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/empreinte-digitale.png",

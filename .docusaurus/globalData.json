@@ -1,98 +1,98 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "https://rochdly.github.io/doc-API-AP/docs",
+      "path": "/doc-API-AP/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "https://rochdly.github.io/doc-API-AP/docs",
+          "path": "/doc-API-AP/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "documentation/access-the-api",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/access-the-api",
+              "path": "/doc-API-AP/docs/documentation/access-the-api",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/authors",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/authors",
+              "path": "/doc-API-AP/docs/documentation/authors",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/cities",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/cities",
+              "path": "/doc-API-AP/docs/documentation/cities",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/comments",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/comments",
+              "path": "/doc-API-AP/docs/documentation/comments",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/data-about-epigrams",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/data-about-epigrams",
+              "path": "/doc-API-AP/docs/documentation/data-about-epigrams",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/external-references",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/external-references",
+              "path": "/doc-API-AP/docs/documentation/external-references",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/images-of-the-manuscrit",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/images-of-the-manuscrit",
+              "path": "/doc-API-AP/docs/documentation/images-of-the-manuscrit",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/internal-references",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/internal-references",
+              "path": "/doc-API-AP/docs/documentation/internal-references",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/keywords",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/keywords",
+              "path": "/doc-API-AP/docs/documentation/keywords",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/manuscrit-annotation",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/manuscrit-annotation",
+              "path": "/doc-API-AP/docs/documentation/manuscrit-annotation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/pagination",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/pagination",
+              "path": "/doc-API-AP/docs/documentation/pagination",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/scholia",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/scholia",
+              "path": "/doc-API-AP/docs/documentation/scholia",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/texts",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/texts",
+              "path": "/doc-API-AP/docs/documentation/texts",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/the-endpoint-passages",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/the-endpoint-passages",
+              "path": "/doc-API-AP/docs/documentation/the-endpoint-passages",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "documentation/wikidata",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/documentation/wikidata",
+              "path": "/doc-API-AP/docs/documentation/wikidata",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/intro",
+              "path": "/doc-API-AP/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/documentation",
-              "path": "https://rochdly.github.io/doc-API-AP/docs/category/documentation",
+              "path": "/doc-API-AP/docs/category/documentation",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -100,7 +100,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "https://rochdly.github.io/doc-API-AP/docs/intro",
+                "path": "/doc-API-AP/docs/intro",
                 "label": "intro"
               }
             }

@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "https://rochdly.github.io/doc-API-AP/blog/welcome"
+      "permalink": "/doc-API-AP/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "https://rochdly.github.io/doc-API-AP/blog/mdx-blog-post"
+      "permalink": "/doc-API-AP/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "https://rochdly.github.io/doc-API-AP/blog/long-blog-post"
+      "permalink": "/doc-API-AP/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "https://rochdly.github.io/doc-API-AP/blog/first-blog-post"
+      "permalink": "/doc-API-AP/blog/first-blog-post"
     }
   ]
 }

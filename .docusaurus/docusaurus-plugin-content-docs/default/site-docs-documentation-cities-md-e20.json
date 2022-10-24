@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/cities.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/cities",
-  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/cities",
+  "permalink": "/doc-API-AP/docs/documentation/cities",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Keywords",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/keywords"
+    "permalink": "/doc-API-AP/docs/documentation/keywords"
   },
   "next": {
     "title": "Scholia",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/scholia"
+    "permalink": "/doc-API-AP/docs/documentation/scholia"
   }
 }

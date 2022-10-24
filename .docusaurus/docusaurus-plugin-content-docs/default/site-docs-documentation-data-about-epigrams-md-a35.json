@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/data-about-epigrams.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/data-about-epigrams",
-  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/data-about-epigrams",
+  "permalink": "/doc-API-AP/docs/documentation/data-about-epigrams",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Pagination",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/pagination"
+    "permalink": "/doc-API-AP/docs/documentation/pagination"
   },
   "next": {
     "title": "Images of the manuscript (Codex Palatinus 23)",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/images-of-the-manuscrit"
+    "permalink": "/doc-API-AP/docs/documentation/images-of-the-manuscrit"
   }
 }

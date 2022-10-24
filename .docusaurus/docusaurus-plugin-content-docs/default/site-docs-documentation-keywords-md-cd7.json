@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/keywords.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/keywords",
-  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/keywords",
+  "permalink": "/doc-API-AP/docs/documentation/keywords",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Authors",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/authors"
+    "permalink": "/doc-API-AP/docs/documentation/authors"
   },
   "next": {
     "title": "Cities (places)",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/cities"
+    "permalink": "/doc-API-AP/docs/documentation/cities"
   }
 }

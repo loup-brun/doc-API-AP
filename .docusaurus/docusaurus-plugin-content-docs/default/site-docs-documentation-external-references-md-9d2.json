@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/external-references.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/external-references",
-  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/external-references",
+  "permalink": "/doc-API-AP/docs/documentation/external-references",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Comments",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/comments"
+    "permalink": "/doc-API-AP/docs/documentation/comments"
   },
   "next": {
     "title": "Internal references",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/internal-references"
+    "permalink": "/doc-API-AP/docs/documentation/internal-references"
   }
 }

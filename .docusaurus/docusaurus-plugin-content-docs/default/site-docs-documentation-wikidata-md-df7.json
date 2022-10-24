@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/wikidata.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/wikidata",
-  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/wikidata",
+  "permalink": "/doc-API-AP/docs/documentation/wikidata",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Internal references",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/internal-references"
+    "permalink": "/doc-API-AP/docs/documentation/internal-references"
   },
   "next": {
     "title": "Manuscript Annotation API",
-    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/manuscrit-annotation"
+    "permalink": "/doc-API-AP/docs/documentation/manuscrit-annotation"
   }
 }
