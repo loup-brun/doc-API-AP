@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Documentation Intro",
+        "label": "Greek Anthology project",
         "href": "https://rochdly.github.io/doc-API-AP/docs/intro",
         "docId": "intro"
       },
@@ -209,8 +209,8 @@
     },
     "intro": {
       "id": "intro",
-      "title": "Documentation Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Greek Anthology project",
+      "description": "For a digital and collaborative edition of the Greek Anthology",
       "sidebar": "tutorialSidebar"
     }
   }
