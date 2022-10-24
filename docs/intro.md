@@ -11,4 +11,4 @@ The platform [*anthologia graeca*](https://anthologiagraeca.org/) is built using
 
 Our [API](https://anthologiagraeca.org/api/) is structured with Postgress and is queryable in json
 
-If you have any questions, comments, or concerns, please feel free to [contact us](crc.ecrituresnumeriques@gmail.com).
+If you have any questions, comments, or concerns, please feel free to [contact us](mailto:crc.ecrituresnumeriques@gmail.com).
