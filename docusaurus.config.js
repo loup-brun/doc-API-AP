@@ -7,18 +7,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Documentation of the Greek Anthology API',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://rochdly.github.io/',
-  baseUrl: '/doc-API-AP/',
+  tagline: 'Use the Greek Anthology with the API',
+  url: 'https://api-doc.anthologiagraeca.org',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/empreinte-digitale.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'RochDLY', // Usually your GitHub org/user name.
+  organizationName: 'EcrituresNumeriques', // Usually your GitHub org/user name.
   projectName: 'doc-API-AP', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  //trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
