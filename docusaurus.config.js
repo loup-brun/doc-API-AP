@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Documentation of the Greek Anthology API',
   tagline: 'Dinosaurs are cool',
-  url: 'https://rochdly.github.io',
+  url: 'https://rochdly.github.io/build/index.html',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
