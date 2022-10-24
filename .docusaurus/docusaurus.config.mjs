@@ -6,14 +6,14 @@
 export default {
   "title": "Documentation of the Greek Anthology API",
   "tagline": "Dinosaurs are cool",
-  "url": "https://rochdly.github.io",
-  "baseUrl": "/",
+  "url": "https://rochdly.github.io/",
+  "baseUrl": "https://rochdly.github.io/doc-API-AP/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/empreinte-digitale.png",
   "organizationName": "RochDLY",
   "projectName": "doc-API-AP",
-  "deploymentBranch": "main",
+  "deploymentBranch": "gh-pages",
   "i18n": {
     "defaultLocale": "en",
     "locales": [

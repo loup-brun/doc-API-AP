@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/the-endpoint-passages.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/the-endpoint-passages",
-  "permalink": "/docs/documentation/the-endpoint-passages",
+  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/the-endpoint-passages",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Access the API",
-    "permalink": "/docs/documentation/access-the-api"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/access-the-api"
   },
   "next": {
     "title": "Pagination",
-    "permalink": "/docs/documentation/pagination"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/pagination"
   }
 }

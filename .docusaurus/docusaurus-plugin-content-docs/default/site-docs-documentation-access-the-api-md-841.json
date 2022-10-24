@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/access-the-api.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/access-the-api",
-  "permalink": "/docs/documentation/access-the-api",
+  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/access-the-api",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Documentation",
-    "permalink": "/docs/category/documentation"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/category/documentation"
   },
   "next": {
     "title": "The endpoint \"passages\"",
-    "permalink": "/docs/documentation/the-endpoint-passages"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/the-endpoint-passages"
   }
 }

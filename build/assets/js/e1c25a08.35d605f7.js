@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi_ap=self.webpackChunkapi_ap||[]).push([[734],{1139:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"https://rochdly.github.io/doc-API-AP/blog/tags/facebook","allTagsPath":"https://rochdly.github.io/doc-API-AP/blog/tags","count":1}')}}]);

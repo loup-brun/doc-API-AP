@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/texts.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/texts",
-  "permalink": "/docs/documentation/texts",
+  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/texts",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Images of the manuscript (Codex Palatinus 23)",
-    "permalink": "/docs/documentation/images-of-the-manuscrit"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/images-of-the-manuscrit"
   },
   "next": {
     "title": "Authors",
-    "permalink": "/docs/documentation/authors"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/authors"
   }
 }

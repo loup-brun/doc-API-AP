@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "https://rochdly.github.io/doc-API-AP/docs",
+          "tagsPath": "https://rochdly.github.io/doc-API-AP/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/foudre/git-crcen/doc-API-AP/sidebars.js",
@@ -25,7 +25,7 @@
               "source": "@site/docs/documentation/access-the-api.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/access-the-api",
-              "permalink": "/docs/documentation/access-the-api",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/access-the-api",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -36,11 +36,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Documentation",
-                "permalink": "/docs/category/documentation"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/category/documentation"
               },
               "next": {
                 "title": "The endpoint \"passages\"",
-                "permalink": "/docs/documentation/the-endpoint-passages"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/the-endpoint-passages"
               }
             },
             {
@@ -51,7 +51,7 @@
               "source": "@site/docs/documentation/authors.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/authors",
-              "permalink": "/docs/documentation/authors",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/authors",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -62,11 +62,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Texts",
-                "permalink": "/docs/documentation/texts"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/texts"
               },
               "next": {
                 "title": "Keywords",
-                "permalink": "/docs/documentation/keywords"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/keywords"
               }
             },
             {
@@ -77,7 +77,7 @@
               "source": "@site/docs/documentation/cities.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/cities",
-              "permalink": "/docs/documentation/cities",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/cities",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -88,11 +88,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Keywords",
-                "permalink": "/docs/documentation/keywords"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/keywords"
               },
               "next": {
                 "title": "Scholia",
-                "permalink": "/docs/documentation/scholia"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/scholia"
               }
             },
             {
@@ -103,7 +103,7 @@
               "source": "@site/docs/documentation/comments.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/comments",
-              "permalink": "/docs/documentation/comments",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/comments",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -114,11 +114,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Scholia",
-                "permalink": "/docs/documentation/scholia"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/scholia"
               },
               "next": {
                 "title": "External references",
-                "permalink": "/docs/documentation/external-references"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/external-references"
               }
             },
             {
@@ -129,7 +129,7 @@
               "source": "@site/docs/documentation/data-about-epigrams.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/data-about-epigrams",
-              "permalink": "/docs/documentation/data-about-epigrams",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/data-about-epigrams",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -140,11 +140,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Pagination",
-                "permalink": "/docs/documentation/pagination"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/pagination"
               },
               "next": {
                 "title": "Images of the manuscript (Codex Palatinus 23)",
-                "permalink": "/docs/documentation/images-of-the-manuscrit"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/images-of-the-manuscrit"
               }
             },
             {
@@ -155,7 +155,7 @@
               "source": "@site/docs/documentation/external-references.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/external-references",
-              "permalink": "/docs/documentation/external-references",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/external-references",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -166,11 +166,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Comments",
-                "permalink": "/docs/documentation/comments"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/comments"
               },
               "next": {
                 "title": "Internal references",
-                "permalink": "/docs/documentation/internal-references"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/internal-references"
               }
             },
             {
@@ -181,7 +181,7 @@
               "source": "@site/docs/documentation/images-of-the-manuscrit.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/images-of-the-manuscrit",
-              "permalink": "/docs/documentation/images-of-the-manuscrit",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/images-of-the-manuscrit",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -192,11 +192,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Data about epigrams",
-                "permalink": "/docs/documentation/data-about-epigrams"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/data-about-epigrams"
               },
               "next": {
                 "title": "Texts",
-                "permalink": "/docs/documentation/texts"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/texts"
               }
             },
             {
@@ -207,7 +207,7 @@
               "source": "@site/docs/documentation/internal-references.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/internal-references",
-              "permalink": "/docs/documentation/internal-references",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/internal-references",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -218,11 +218,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "External references",
-                "permalink": "/docs/documentation/external-references"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/external-references"
               },
               "next": {
                 "title": "Wikidata and other identifiers",
-                "permalink": "/docs/documentation/wikidata"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/wikidata"
               }
             },
             {
@@ -233,7 +233,7 @@
               "source": "@site/docs/documentation/keywords.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/keywords",
-              "permalink": "/docs/documentation/keywords",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/keywords",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -244,11 +244,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Authors",
-                "permalink": "/docs/documentation/authors"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/authors"
               },
               "next": {
                 "title": "Cities (places)",
-                "permalink": "/docs/documentation/cities"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/cities"
               }
             },
             {
@@ -259,7 +259,7 @@
               "source": "@site/docs/documentation/manuscrit-annotation.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/manuscrit-annotation",
-              "permalink": "/docs/documentation/manuscrit-annotation",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/manuscrit-annotation",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -270,7 +270,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Wikidata and other identifiers",
-                "permalink": "/docs/documentation/wikidata"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/wikidata"
               }
             },
             {
@@ -281,7 +281,7 @@
               "source": "@site/docs/documentation/pagination.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/pagination",
-              "permalink": "/docs/documentation/pagination",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/pagination",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -292,11 +292,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "The endpoint \"passages\"",
-                "permalink": "/docs/documentation/the-endpoint-passages"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/the-endpoint-passages"
               },
               "next": {
                 "title": "Data about epigrams",
-                "permalink": "/docs/documentation/data-about-epigrams"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/data-about-epigrams"
               }
             },
             {
@@ -307,7 +307,7 @@
               "source": "@site/docs/documentation/scholia.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/scholia",
-              "permalink": "/docs/documentation/scholia",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/scholia",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -318,11 +318,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Cities (places)",
-                "permalink": "/docs/documentation/cities"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/cities"
               },
               "next": {
                 "title": "Comments",
-                "permalink": "/docs/documentation/comments"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/comments"
               }
             },
             {
@@ -333,7 +333,7 @@
               "source": "@site/docs/documentation/texts.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/texts",
-              "permalink": "/docs/documentation/texts",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/texts",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -344,11 +344,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Images of the manuscript (Codex Palatinus 23)",
-                "permalink": "/docs/documentation/images-of-the-manuscrit"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/images-of-the-manuscrit"
               },
               "next": {
                 "title": "Authors",
-                "permalink": "/docs/documentation/authors"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/authors"
               }
             },
             {
@@ -359,7 +359,7 @@
               "source": "@site/docs/documentation/the-endpoint-passages.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/the-endpoint-passages",
-              "permalink": "/docs/documentation/the-endpoint-passages",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/the-endpoint-passages",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -370,11 +370,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Access the API",
-                "permalink": "/docs/documentation/access-the-api"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/access-the-api"
               },
               "next": {
                 "title": "Pagination",
-                "permalink": "/docs/documentation/pagination"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/pagination"
               }
             },
             {
@@ -385,7 +385,7 @@
               "source": "@site/docs/documentation/wikidata.md",
               "sourceDirName": "documentation",
               "slug": "/documentation/wikidata",
-              "permalink": "/docs/documentation/wikidata",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/wikidata",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -396,11 +396,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Internal references",
-                "permalink": "/docs/documentation/internal-references"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/internal-references"
               },
               "next": {
                 "title": "Manuscript Annotation API",
-                "permalink": "/docs/documentation/manuscrit-annotation"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/manuscrit-annotation"
               }
             },
             {
@@ -411,7 +411,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "https://rochdly.github.io/doc-API-AP/docs/intro",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -422,7 +422,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Documentation",
-                "permalink": "/docs/category/documentation"
+                "permalink": "https://rochdly.github.io/doc-API-AP/docs/category/documentation"
               }
             }
           ],
@@ -504,7 +504,7 @@
                   "type": "generated-index",
                   "description": "The purpose of this notebook is to document the API of the Greek Anthology's project. It is available at http://anthologiagraeca.org/api.",
                   "slug": "/category/documentation",
-                  "permalink": "/docs/category/documentation"
+                  "permalink": "https://rochdly.github.io/doc-API-AP/docs/category/documentation"
                 }
               }
             ]
@@ -520,7 +520,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "https://rochdly.github.io/doc-API-AP/blog/welcome",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -529,15 +529,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -573,7 +573,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "https://rochdly.github.io/doc-API-AP/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -581,7 +581,7 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "https://rochdly.github.io/doc-API-AP/blog/mdx-blog-post",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -590,7 +590,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -616,11 +616,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "https://rochdly.github.io/doc-API-AP/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "https://rochdly.github.io/doc-API-AP/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -628,7 +628,7 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "https://rochdly.github.io/doc-API-AP/blog/long-blog-post",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -637,11 +637,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -666,11 +666,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "https://rochdly.github.io/doc-API-AP/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "https://rochdly.github.io/doc-API-AP/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -678,7 +678,7 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "https://rochdly.github.io/doc-API-AP/blog/first-blog-post",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -687,11 +687,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -722,7 +722,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "https://rochdly.github.io/doc-API-AP/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -737,7 +737,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "https://rochdly.github.io/doc-API-AP/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -748,19 +748,19 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "https://rochdly.github.io/doc-API-AP/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook",
+          "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/facebook",
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -771,13 +771,13 @@
             }
           ]
         },
-        "/blog/tags/hello": {
+        "https://rochdly.github.io/doc-API-AP/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -785,7 +785,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -796,7 +796,7 @@
             }
           ]
         },
-        "/blog/tags/docusaurus": {
+        "https://rochdly.github.io/doc-API-AP/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -804,7 +804,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -814,7 +814,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -825,19 +825,19 @@
             }
           ]
         },
-        "/blog/tags/hola": {
+        "https://rochdly.github.io/doc-API-AP/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "https://rochdly.github.io/doc-API-AP/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -849,19 +849,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "https://rochdly.github.io/doc-API-AP/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "https://rochdly.github.io/doc-API-AP/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "https://rochdly.github.io/doc-API-AP/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

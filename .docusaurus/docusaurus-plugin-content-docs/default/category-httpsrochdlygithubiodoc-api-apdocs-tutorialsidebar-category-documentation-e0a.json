@@ -1,0 +1,16 @@
+{
+  "title": "Documentation",
+  "description": "The purpose of this notebook is to document the API of the Greek Anthology's project. It is available at http://anthologiagraeca.org/api.",
+  "slug": "/category/documentation",
+  "permalink": "https://rochdly.github.io/doc-API-AP/docs/category/documentation",
+  "navigation": {
+    "previous": {
+      "title": "Documentation Intro",
+      "permalink": "https://rochdly.github.io/doc-API-AP/docs/intro"
+    },
+    "next": {
+      "title": "Access the API",
+      "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/access-the-api"
+    }
+  }
+}

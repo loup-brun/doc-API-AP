@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/comments.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/comments",
-  "permalink": "/docs/documentation/comments",
+  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/comments",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Scholia",
-    "permalink": "/docs/documentation/scholia"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/scholia"
   },
   "next": {
     "title": "External references",
-    "permalink": "/docs/documentation/external-references"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/external-references"
   }
 }

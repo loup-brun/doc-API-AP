@@ -3,176 +3,176 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '3f6'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog', '14c'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '3d0'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog/archive',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog/archive', '397'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '4be'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog/first-blog-post',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog/first-blog-post', 'c06'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', 'd88'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog/long-blog-post',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog/long-blog-post', '450'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'c0d'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog/mdx-blog-post',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog/mdx-blog-post', '1d9'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'ded'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog/tags',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog/tags', 'd2e'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'eba'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog/tags/docusaurus',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog/tags/docusaurus', 'c45'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'b35'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog/tags/facebook',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog/tags/facebook', '616'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '52c'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog/tags/hello',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog/tags/hello', '8b5'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '654'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog/tags/hola',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog/tags/hola', '570'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'cd6'),
+    path: 'https://rochdly.github.io/doc-API-AP/blog/welcome',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/blog/welcome', '220'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '989'),
+    path: 'https://rochdly.github.io/doc-API-AP/markdown-page',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/markdown-page', 'c36'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'ca4'),
+    path: 'https://rochdly.github.io/doc-API-AP/docs',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs', '3bc'),
     routes: [
       {
-        path: '/docs/category/documentation',
-        component: ComponentCreator('/docs/category/documentation', '058'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/category/documentation',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/category/documentation', '70a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/access-the-api',
-        component: ComponentCreator('/docs/documentation/access-the-api', 'c4e'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/access-the-api',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/access-the-api', '233'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/authors',
-        component: ComponentCreator('/docs/documentation/authors', '2d5'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/authors',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/authors', 'fa7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/cities',
-        component: ComponentCreator('/docs/documentation/cities', 'b1b'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/cities',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/cities', '77e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/comments',
-        component: ComponentCreator('/docs/documentation/comments', '68c'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/comments',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/comments', '03f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/data-about-epigrams',
-        component: ComponentCreator('/docs/documentation/data-about-epigrams', '71a'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/data-about-epigrams',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/data-about-epigrams', '3c5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/external-references',
-        component: ComponentCreator('/docs/documentation/external-references', '145'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/external-references',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/external-references', 'b54'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/images-of-the-manuscrit',
-        component: ComponentCreator('/docs/documentation/images-of-the-manuscrit', '5c6'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/images-of-the-manuscrit',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/images-of-the-manuscrit', '36d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/internal-references',
-        component: ComponentCreator('/docs/documentation/internal-references', 'c4b'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/internal-references',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/internal-references', '9ea'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/keywords',
-        component: ComponentCreator('/docs/documentation/keywords', '4fb'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/keywords',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/keywords', '151'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/manuscrit-annotation',
-        component: ComponentCreator('/docs/documentation/manuscrit-annotation', '8fd'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/manuscrit-annotation',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/manuscrit-annotation', '30c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/pagination',
-        component: ComponentCreator('/docs/documentation/pagination', '697'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/pagination',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/pagination', 'e19'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/scholia',
-        component: ComponentCreator('/docs/documentation/scholia', '1be'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/scholia',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/scholia', '28f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/texts',
-        component: ComponentCreator('/docs/documentation/texts', '2a0'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/texts',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/texts', 'a71'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/the-endpoint-passages',
-        component: ComponentCreator('/docs/documentation/the-endpoint-passages', '7fa'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/the-endpoint-passages',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/the-endpoint-passages', '13b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/documentation/wikidata',
-        component: ComponentCreator('/docs/documentation/wikidata', '46c'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/documentation/wikidata',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/documentation/wikidata', '816'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: 'https://rochdly.github.io/doc-API-AP/docs/intro',
+        component: ComponentCreator('https://rochdly.github.io/doc-API-AP/docs/intro', '966'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'cee'),
+    path: 'https://rochdly.github.io/doc-API-AP/',
+    component: ComponentCreator('https://rochdly.github.io/doc-API-AP/', '79b'),
     exact: true
   },
   {

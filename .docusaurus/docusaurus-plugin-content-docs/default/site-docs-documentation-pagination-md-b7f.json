@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/pagination.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/pagination",
-  "permalink": "/docs/documentation/pagination",
+  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/pagination",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "The endpoint \"passages\"",
-    "permalink": "/docs/documentation/the-endpoint-passages"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/the-endpoint-passages"
   },
   "next": {
     "title": "Data about epigrams",
-    "permalink": "/docs/documentation/data-about-epigrams"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/data-about-epigrams"
   }
 }

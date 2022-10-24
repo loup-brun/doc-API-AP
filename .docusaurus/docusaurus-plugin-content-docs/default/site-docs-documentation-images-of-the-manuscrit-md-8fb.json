@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/images-of-the-manuscrit.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/images-of-the-manuscrit",
-  "permalink": "/docs/documentation/images-of-the-manuscrit",
+  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/images-of-the-manuscrit",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Data about epigrams",
-    "permalink": "/docs/documentation/data-about-epigrams"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/data-about-epigrams"
   },
   "next": {
     "title": "Texts",
-    "permalink": "/docs/documentation/texts"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/texts"
   }
 }

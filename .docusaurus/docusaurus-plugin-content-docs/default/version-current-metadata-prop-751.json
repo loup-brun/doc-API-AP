@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Documentation Intro",
-        "href": "/docs/intro",
+        "href": "https://rochdly.github.io/doc-API-AP/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,95 +24,95 @@
           {
             "type": "link",
             "label": "Access the API",
-            "href": "/docs/documentation/access-the-api",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/access-the-api",
             "docId": "documentation/access-the-api"
           },
           {
             "type": "link",
             "label": "The endpoint \"passages\"",
-            "href": "/docs/documentation/the-endpoint-passages",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/the-endpoint-passages",
             "docId": "documentation/the-endpoint-passages"
           },
           {
             "type": "link",
             "label": "Pagination",
-            "href": "/docs/documentation/pagination",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/pagination",
             "docId": "documentation/pagination"
           },
           {
             "type": "link",
             "label": "Data about epigrams",
-            "href": "/docs/documentation/data-about-epigrams",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/data-about-epigrams",
             "docId": "documentation/data-about-epigrams"
           },
           {
             "type": "link",
             "label": "Images of the manuscript (Codex Palatinus 23)",
-            "href": "/docs/documentation/images-of-the-manuscrit",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/images-of-the-manuscrit",
             "docId": "documentation/images-of-the-manuscrit"
           },
           {
             "type": "link",
             "label": "Texts",
-            "href": "/docs/documentation/texts",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/texts",
             "docId": "documentation/texts"
           },
           {
             "type": "link",
             "label": "Authors",
-            "href": "/docs/documentation/authors",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/authors",
             "docId": "documentation/authors"
           },
           {
             "type": "link",
             "label": "Keywords",
-            "href": "/docs/documentation/keywords",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/keywords",
             "docId": "documentation/keywords"
           },
           {
             "type": "link",
             "label": "Cities (places)",
-            "href": "/docs/documentation/cities",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/cities",
             "docId": "documentation/cities"
           },
           {
             "type": "link",
             "label": "Scholia",
-            "href": "/docs/documentation/scholia",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/scholia",
             "docId": "documentation/scholia"
           },
           {
             "type": "link",
             "label": "Comments",
-            "href": "/docs/documentation/comments",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/comments",
             "docId": "documentation/comments"
           },
           {
             "type": "link",
             "label": "External references",
-            "href": "/docs/documentation/external-references",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/external-references",
             "docId": "documentation/external-references"
           },
           {
             "type": "link",
             "label": "Internal references",
-            "href": "/docs/documentation/internal-references",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/internal-references",
             "docId": "documentation/internal-references"
           },
           {
             "type": "link",
             "label": "Wikidata and other identifiers",
-            "href": "/docs/documentation/wikidata",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/wikidata",
             "docId": "documentation/wikidata"
           },
           {
             "type": "link",
             "label": "Manuscript Annotation API",
-            "href": "/docs/documentation/manuscrit-annotation",
+            "href": "https://rochdly.github.io/doc-API-AP/docs/documentation/manuscrit-annotation",
             "docId": "documentation/manuscrit-annotation"
           }
         ],
-        "href": "/docs/category/documentation"
+        "href": "https://rochdly.github.io/doc-API-AP/docs/category/documentation"
       }
     ]
   },

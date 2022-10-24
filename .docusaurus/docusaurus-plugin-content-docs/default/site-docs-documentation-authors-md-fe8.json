@@ -6,7 +6,7 @@
   "source": "@site/docs/documentation/authors.md",
   "sourceDirName": "documentation",
   "slug": "/documentation/authors",
-  "permalink": "/docs/documentation/authors",
+  "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/authors",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Texts",
-    "permalink": "/docs/documentation/texts"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/texts"
   },
   "next": {
     "title": "Keywords",
-    "permalink": "/docs/documentation/keywords"
+    "permalink": "https://rochdly.github.io/doc-API-AP/docs/documentation/keywords"
   }
 }
