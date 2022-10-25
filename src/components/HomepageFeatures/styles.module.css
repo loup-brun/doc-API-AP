@@ -6,6 +6,22 @@
 }
 
 .featureSvg {
-  height: 400px;
-  width: 600px;
+  max-width: 100%;
+  height: auto;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 1.5rem;
+}
+
+@media (min-width: 48rem) {
+  .col--2 {
+    grid-column: span 2;
+  }
+
+  .col--6 {
+    grid-column: span 6;
+  }
 }
