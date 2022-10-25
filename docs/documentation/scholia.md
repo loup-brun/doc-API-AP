@@ -7,6 +7,7 @@ sidebar_position: 10
 On the _Codex Palatinus 23_, scholia are often associated to epigrams. Those scholia are also rendered on the platform and hence on the API.
 
 ```python
+ep6_13 = requests.get('https://anthologiagraeca.org/api/passages/urn:cts:greekLit:tlg7000.tlg001.ag:6.13').json()
 ep6_13['scholia']
 ```
 

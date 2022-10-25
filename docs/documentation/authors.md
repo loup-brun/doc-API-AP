@@ -7,6 +7,7 @@ sidebar_position: 7
 An epigram is almost always associated to one or more authors (since the attributions are often uncertain):
 
 ```python
+ep6_13 = requests.get('https://anthologiagraeca.org/api/passages/urn:cts:greekLit:tlg7000.tlg001.ag:6.13').json()
 ep6_13['authors']
 ```
 ```

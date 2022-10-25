@@ -11,6 +11,7 @@ Many types of links are possible. An epigram can be the variation of another (an
 This is still work in progress ; the type of internal reference will most probably always be "default".
 
 ```python
+ep6_13 = requests.get('https://anthologiagraeca.org/api/passages/urn:cts:greekLit:tlg7000.tlg001.ag:6.13').json()
 ep6_13['internal_references']
 ```
 

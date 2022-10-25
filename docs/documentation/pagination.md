@@ -9,7 +9,9 @@ As you might have noticed, all of the information are not displayed on the block
 By default, each page has:
 
 ```python
-len(epigrams_res['results'])
+epigrams_url = 'http://anthologiagraeca.org/api/passages/'
+epigrams = requests.get(epigrams_url).json()
+len(epigrams['results'])
   50
 ```
 50 epigrams. You can change this value with the parameter `limit`.
@@ -17,9 +19,9 @@ len(epigrams_res['results'])
 ```python
 parameters.update({'limit':100})
 
-epigrams_res = requests.get(url+epigrams,parameters).json()
+epigrams = requests.get(epigrams_url,parameters).json()
 
-len(epigrams_res['results'])
+len(epigrams['results'])
   100
 ```
 This list can be filtered :

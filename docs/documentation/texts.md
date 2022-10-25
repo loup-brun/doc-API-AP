@@ -7,6 +7,7 @@ sidebar_position: 6
 Each epigram has a list of texts wich are associated to it. All the epigrams in our database should have at least the greek text. An epigram can have more than one greek editions of the text and a set of translations in different languages :
 
 ```python
+ep6_13 = requests.get('https://anthologiagraeca.org/api/passages/urn:cts:greekLit:tlg7000.tlg001.ag:6.13').json()
 ep6_13['texts']
 ```
 

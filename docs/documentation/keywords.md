@@ -13,6 +13,7 @@ One can have more information about a keyword on its own endpoint, structured as
 (the keyword id can be found here at the end of its URL on the platform, _e.g._ https://anthologiagraeca.org/keywords/1/ is the URL for the keyword "Elegiac couplet" ; the id is "1").
 
 ```python
+ep6_13 = requests.get('https://anthologiagraeca.org/api/passages/urn:cts:greekLit:tlg7000.tlg001.ag:6.13').json()
 ep6_13['keywords']
 ```
 

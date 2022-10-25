@@ -9,6 +9,7 @@ For each epigram, the corresponding iiif images of the manuscript can be found u
 For more information about the manuscript and its images, cf. the section "Manuscript Annotation API" in this document. 
 
 ```python
+ep6_13 = requests.get('https://anthologiagraeca.org/api/passages/urn:cts:greekLit:tlg7000.tlg001.ag:6.13').json()
 ep6_13['manuscripts']
 ```
 ```python

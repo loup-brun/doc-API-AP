@@ -7,6 +7,7 @@ sidebar_position: 11
 An epigram can have comments, a sort of footnotes about the epigram as a whole of some part of it. These comments can be multilingual and they sometimes contain some markdown markup:
 
 ```python
+ep6_13 = requests.get('https://anthologiagraeca.org/api/passages/urn:cts:greekLit:tlg7000.tlg001.ag:6.13').json()
 ep6_13['comments']
 ```
 ```

@@ -6,6 +6,8 @@ sidebar_position: 1
 
 We will start by importing different useful libraries and define our first variables for the requests.
 
+The api main endpoint is accessible at `http://anthologiagraeca.org/api`
+
 ```python
 import requests
 import json

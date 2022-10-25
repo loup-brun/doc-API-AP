@@ -9,13 +9,13 @@ The first endpoint (`passages`) is the most important : it contains a list of al
 With the variable "epigrams", we directly make a request to the API (its URL is built thanks to the variables defined above and below).
 
 ```python
-epigrams = '/passages'
-epigrams_res = requests.get(url+epigrams,parameters).json()
+epigrams_url = 'http://anthologiagraeca.org/api/passages/'
+epigrams = requests.get(epigrams_url).json()
 ```
 The result of our request provides us with a lot information related to the passages, as seen below : 
 
 ```python
-epigrams_res
+epigrams
 ```
 <details>
   <summary>Results</summary>
@@ -1928,6 +1928,6 @@ epigrams_res
 As you can see, we have for now 4134 epigrams - the value of `count`.
 
 ```python
-epigrams_res['count']
+epigrams['count']
   4134
 ```

@@ -28,7 +28,9 @@ Based on this information the epigram endpoind will be structured as follows:
 This url is avaiable in the list of epigrams as one can see in the field url of each result (let us take the first one here):
 
 ```python
-epigrams_res['results'][0]['url']
+epigrams_url = 'http://anthologiagraeca.org/api/passages/'
+epigrams = requests.get(epigrams_url).json()
+epigrams['results'][0]['url']
   'https://anthologiagraeca.org/api/passages/urn:cts:greekLit:tlg7000.tlg001.ag:1.1/?format=json'
 ```
 Let us have a look at the epigram 6.13, which means the epigram number 13 of the book 6:
